@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "Next Stream",
+      "description": "This is another one.",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "Hello beautiful",
+      "userId": "107220156067926019121",
+      "id": 3
+    },
+    {
+      "title": "Third Stream",
+      "description": "Hello Beautiful",
+      "userId": "107220156067926019121",
+      "id": 4
+    },
+    {
+      "title": "Test Stream 4",
+      "description": "Let's see if this works",
+      "userId": "107220156067926019121",
+      "id": 5
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page.",
+      "userId": "107220156067926019121",
+      "id": 6
+    }
+  ]
+}
